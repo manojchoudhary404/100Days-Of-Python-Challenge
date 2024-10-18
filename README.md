@@ -4,7 +4,7 @@ By Manoj Choudhary~
 
 Welcome to my collection of Python projects from the 100 Days of Code challenge! This repository includes a wide variety of projects that demonstrate my growing proficiency in Python, ranging from web scraping to automation, data analysis, and web development.
 
-#### Most projects ideas come from the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100|days|of|code/](https://www.udemy.com/course/100-days-of-code/?couponCode=24T1MT101824)
+#### Most projects ideas come from the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code)
 
 # 📝 Project Overview
 This project contains 100 Python-based projects covering topics like automation, web development, and data handling. It's perfect for developers, students, and hobbyists looking to improve their Python skills or find inspiration for real-world applications.
