@@ -36,7 +36,7 @@ If you’d like to try out any of these projects or use them as a reference for 
 Use the following command to clone the repo to your local machine:
 
 ```bash
-  git clone https://github.com/remarkeyable/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp.git
+  git clone https://github.com/remarkeyable//100Days-Of-Python-Challenge.git
 ```
 2) Navigate to a Project
 Once cloned, navigate to any specific day’s project folder:
