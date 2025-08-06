@@ -72,7 +72,7 @@ Throughout this journey, I've enhanced my skills in:
 ## 📫 Contact Me
 ####  I’m always open to questions, suggestions, or collaborative opportunities! Feel free to connect with me through:
 
-- LinkedIn: [Manoj Choudhary](www.linkedin.com/in/manoj-choudhary7)
+- LinkedIn: [Manoj Choudhary](https://www.linkedin.com/in/manoj-choudhary7/)
 - github: [@manojchoudhary404](https://github.com/manojchoudhary404)
 - Email: manojchoudhary7.in@gmail.com
 
