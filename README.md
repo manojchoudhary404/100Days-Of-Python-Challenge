@@ -93,7 +93,7 @@ Throughout this journey, I've enhanced my skills in:
 ## 🔰 Beginner
 |Day	| Project Name	| 
 | :-:   | :---          |               
-| [Day 1:](leave01)| Working with Variables in Python to Manage Data
+| [Day 1:](https://github.com/manojchoudhary404/100Days-Of-Python-Challenge/tree/main/day01)| Working with Variables in Python to Manage Data
 | [Day 2:](leave02)| Understanding Data Types and How to Manipulate Strings
 | [Day 3:](leave03)| Control Flow and Logical Operators
 | [Day 4:](leave04)| Randomisation and Python Lists
